@@ -9,17 +9,16 @@ setup(
   author_email = 'noone@dontevenreply.com',
   url = 'https://github.com/user/reponame',
   download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
-  keywords = ['SOME', 'MEANINGFULL', 'KEYWORDS'],
+  keywords = ['replit', 'database', 'python'],
   install_requires=[
-          'validators',
-          'beautifulsoup4',
+          'replit'
       ],
   classifiers=[
     'Development Status :: 4 - Alpha',
     'Intended Audience :: Developers',
     'Topic :: Database',
     'License :: OSI Approved :: MIT License',   # Again, pick a license
-    'Programming Language :: Python :: 3',      #Specify which pyhton versions that you want to support
+    'Programming Language :: Python :: 3',
     'Programming Language :: Python :: 3.4',
     'Programming Language :: Python :: 3.5',
     'Programming Language :: Python :: 3.6',

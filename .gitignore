@@ -1,1 +1,7 @@
 main.py
+.replit
+replit.nix
+poetry.lock
+pyproject.toml
+.config
+venv
